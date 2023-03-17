@@ -53,6 +53,20 @@ function Header() {
               <img src="image/main.jfif" alt="pharma" className='w-100 p-3' />
             </div>
           </div>
+          <div className="row py-4">
+          <div className="col-lg-4 col-sm-12">
+            <div className="icon"><img src="image/hair.jpg" alt="hair" className='w-100'/></div>
+            <div className="link"><a href="#">العناية بالشعر </a></div>
+          </div>
+          <div className="col-lg-4 col-sm-12">
+            <div className="icon"><img src="image/skin.jpg" alt="skin" className='w-100'/></div>
+            <div className="link"><a href="#">العناية بالبشرة</a></div>
+          </div>
+          <div className="col-lg-4 col-sm-12">
+            <div className="icon"><img src="image/body.webp" alt="body" className='w-100'/></div>
+            <div className="link"><a href="#">العناية بالجسم</a></div>
+          </div>
+          </div>
         </div>
       </div>
 

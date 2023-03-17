@@ -3,7 +3,7 @@ import style from './login.module.css'
 
 function Login() {
     return (
-        <div className={`${style.login}`}>
+        <div className={`${style.login} mt-4 mb-4`}>
             <div className="title">
                 <h2 className='py-3'>صيدلية الضميدي</h2>
             </div>
